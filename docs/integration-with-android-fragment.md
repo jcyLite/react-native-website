@@ -1,6 +1,6 @@
 ---
 id: integration-with-android-fragment
-title: Integration with an Android Fragment
+title: Integration with an Android
 ---
 
 import Tabs from '@theme/Tabs'; import TabItem from '@theme/TabItem'; import constants from '@site/core/TabsConstants';
